@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Raghu Rajan
 ---
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
@@ -17,7 +16,7 @@ title: Raghu Rajan
 <a href="https://github.com/RaghuSpaceRajan" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="20" height="20"> GitHub</a> &nbsp; | &nbsp;
 <a href="https://x.com/RaghuSpaceRajan" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" width="20" height="20"> Twitter</a> &nbsp; | &nbsp;
 <a href="https://bsky.app/profile/raghuspacerajan.bsky.social" target="_blank"><img src="https://cdn.simpleicons.org/bluesky/0085ff" width="20" height="20"> BlueSky</a> &nbsp; | &nbsp;
-<a href="https://www.linkedin.com/in/raghuspacerajan/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20"> LinkedIn</a> &nbsp; | &nbsp;
+<a href="https://www.linkedin.com/in/raghuspacerajan/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" height="20"> LinkedIn</a> &nbsp; | &nbsp;
 <a href="https://www.instagram.com/raghuspacerajan/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20"> Instagram</a>
 
 ---
