@@ -10,6 +10,10 @@ layout: default
   </div>
 </div>
 
+<div style="margin-top: 100px;"></div>
+
+---
+
 ### Contact & Socials
 
 <a href="https://scholar.google.de/citations?user=yO9vfx8AAAAJ&hl=en" target="_blank"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="20" height="20"> Scholar</a> &nbsp; | &nbsp;
@@ -20,6 +24,6 @@ layout: default
 <a href="https://www.instagram.com/raghuspacerajan/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20"> Instagram</a>
 
 ---
-
+<br><br>
 ### Affiliation
 [Neurorobotics Lab – University of Freiburg](https://nr.informatik.uni-freiburg.de/people/raghu-rajan)
