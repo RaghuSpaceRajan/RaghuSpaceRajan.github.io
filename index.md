@@ -5,7 +5,6 @@ layout: default
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="photo_boat.jpg" alt="Raghu Rajan" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
   <div style="flex: 1; min-width: 300px;">
-    <h1>Raghu Rajan</h1>
     <p>I am a Postdoctoral Researcher at the Neurorobotics Lab at the University of Freiburg. My research focuses on reinforcement learning, with a particular interest in automated reinforcement learning (AutoRL) and methods for improving robustness and efficiency in reinforcement learning.</p>
   </div>
 </div>
