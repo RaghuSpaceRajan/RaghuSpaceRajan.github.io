@@ -1,1 +1,10 @@
-theme: jekyll-theme-slate
+title: Raghu Rajan
+theme: minima
+
+plugins:
+  - jekyll-scholar
+
+scholar:
+  style: ieee
+  source: .
+  bibliography: publications.bib
