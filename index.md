@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link rel="icon" type="image/jpeg" href="photo_boat.jpg">
+<link rel="icon" type="image/x-icon" href="photo_boat.jpg">
 <style>
 /* Removes the left sidebar from this one: https://pages-themes.github.io/minimal/ */
   header { 
