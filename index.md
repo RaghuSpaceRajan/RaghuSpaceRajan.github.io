@@ -2,6 +2,29 @@
 layout: default
 ---
 
+<style>
+/* Removes the left sidebar from this one: https://pages-themes.github.io/minimal/ */
+  header { 
+    display: none !important; 
+  }
+  
+  /* Expands the main content to take up the full width */
+  section { 
+    width: 100% !important; 
+    max-width: 800px !important; 
+    margin: 0 auto !important;
+    float: none !important;
+  }
+
+  /* Removes the default footer if it still exists */
+/*
+  footer { 
+    display: none !important; 
+  }
+  */
+</style>
+
+
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="photo_boat.jpg" alt="Raghu Rajan" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
   <div style="flex: 1; min-width: 300px;">
